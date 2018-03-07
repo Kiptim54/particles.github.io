@@ -6,7 +6,7 @@
 
 $(document).ready(function(){
   var song=$("#playlist li a").val();
-  alert(song);
+  
   /*hide the audio tag*/
   $("audio").hide();
   /*swtich between play and pause*/

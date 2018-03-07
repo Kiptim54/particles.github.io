@@ -127,12 +127,10 @@ audio {
   position:absolute;
 }
 #particles-js {
-  background-color: blue;
-  height: 100vh;
-  width: 100vw;
+  background-color: #002A3B;
   margin-left: 0;
   margin-right: 0;
-  padding:left:0;
   padding-right: 0;
+  margin-bottom: 0;
 
  }
